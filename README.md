@@ -10,6 +10,7 @@ to be uploaded...
 ## Usage
 
 Clone the repository and open it in Android Studio.  
+https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
 Add the project to Firebase then and add your json file then build gradle
 
