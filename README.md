@@ -4,9 +4,6 @@ Educational math game for grades 4-6, fostering a fun learning environment. Adap
 Difficulty levels to be added soon (Easy, Medium and Hard levels).
 
 
-## Screenshots
-to be uploaded...
-
 ## Usage
 
 Clone the repository and open it in Android Studio.  
