@@ -11,7 +11,7 @@ https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
 Add the project to Firebase then and add your json file then build gradle
 
-Run the app on an emulator or physical device.
+Run the app on an emulator or physical device to launch the application.
 
 ## Technologies Used
 
