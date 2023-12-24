@@ -1,7 +1,7 @@
 # MathMinds-Game
 Educational math game for grades 4-6, fostering a fun learning environment. Adaptive quizzes cover primary math topics. Engaging UI with vibrant visuals. Reinforce fundamental principles in an interactive way.
 
-Difficulty levels to be added (Easy, Medium and Hard levels).
+Difficulty levels to be added (Easy, Medium and Hard levels)
 
 
 ## Usage
@@ -11,7 +11,7 @@ https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
 Add the project to Firebase then and add your json file then build gradle
 
-Run the app on an emulator or physical device to launch the application.
+Run the app on an emulator or physical device.
 
 ## Technologies Used
 
