@@ -9,15 +9,6 @@ User has 30 seconds timer running, user has to solve maximum problems in
 Difficulty levels to be added (Easy, Medium and Hard levels)
 
 
-## Usage
-
-Clone the repository and open it in Android Studio.  
-https://github.com/oluyalireuben/MathMinds-Game-firebase-
-
-Add the project to Firebase then and add your json file then build gradle
-
-Run the app on an emulator or physical device.
-
 ## Technologies Used
 
 - Android Studio
@@ -30,7 +21,16 @@ Run the app on an emulator or physical device.
 - Multiple choice option
 - Timer features
 - Random features
-- Time Limited 
+- Time Limited
+
+## Usage
+
+Clone the repository and open it in Android Studio.  
+https://github.com/oluyalireuben/MathMinds-Game-firebase-
+
+Add the project to Firebase then and add your json file then build gradle
+
+Run the app on an emulator or physical device.
 
 
 ## Contributing
