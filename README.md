@@ -16,10 +16,17 @@ Run the app on an emulator or physical device.
 ## Technologies Used
 
 - Android Studio
-
+- Android XML
+- Android 
 - Firebase
-
 - Kotlin
+
+## App Features
+- Multiple choice option
+- Timer features
+- Random features
+- Time Limited 
+
 
 ## Contributing
 
