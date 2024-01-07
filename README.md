@@ -3,6 +3,7 @@
 Educational math game for grades 4-6, fostering a fun learning environment. Adaptive quizzes cover primary math topics. Engaging UI with vibrant visuals. Reinforce fundamental principles in an interactive way.
 
 ## How the Game works
+After successful registration and Login to the app, User chooses the task to perform on the main dashboard. After task selection, 
 User has 30 seconds timer running, user has to solve maximum problems in
 30 seconds. The score is recorded.
 
