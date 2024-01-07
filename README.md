@@ -9,6 +9,12 @@ User has 30 seconds timer running, user has to solve maximum problems in
 Difficulty levels to be added (Easy, Medium and Hard levels)
 
 
+## App Features
+- Multiple choice option
+- Timer features
+- Random features
+- Time Limited
+
 ## Technologies Used
 
 - Android Studio
@@ -17,11 +23,6 @@ Difficulty levels to be added (Easy, Medium and Hard levels)
 - Firebase
 - Kotlin
 
-## App Features
-- Multiple choice option
-- Timer features
-- Random features
-- Time Limited
 
 ## Usage
 
