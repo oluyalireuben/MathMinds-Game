@@ -6,7 +6,7 @@ Educational math game for grades 4-6, fostering a fun learning environment. Adap
 After successful registration and Login to the app, User chooses the task to perform on the main dashboard. After task selection, 
 User has 30 seconds timer running, user has to solve maximum problems in
 30 seconds. The score is recorded.
-
+Used can re-do the quiz again or Exit the App.
 Difficulty levels to be added (Easy, Medium and Hard levels)
 
 
