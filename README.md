@@ -17,7 +17,6 @@ Difficulty levels to be added (Easy, Medium and Hard levels)
 - Time Limited
 
 ## Technologies Used
-
 - Android Studio
 - Android XML
 - Android 
@@ -26,22 +25,19 @@ Difficulty levels to be added (Easy, Medium and Hard levels)
 
 
 ## Usage
-
 Clone the repository and open it in Android Studio.  
 https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
-Add the project to Firebase then and add your json file then build gradle
+Setup your database i.e Add the project to Firebase then and add your json file then build gradle
 
 Run the app on an emulator or physical device.
 
 
 ## Contributing
-
 Feel free to contribute to the development of Math Game by opening issues and pull requests.
 
 ## Developer
-
-Oluyali Reuben
+oluyalireuben1@gmail.com
 
 
 
