@@ -36,7 +36,7 @@ Run the app on an emulator or physical device.
 ## Contributing
 Feel free to contribute to the development of Math Game by opening issues and pull requests.
 
-## Developer <br>
+## Developer
 oluyalireuben1@gmail.com
 
 
