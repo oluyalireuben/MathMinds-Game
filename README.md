@@ -7,7 +7,8 @@ After successful registration and Login to the app, User chooses the task to per
 User has 30 seconds timer running, user has to solve maximum problems in
 30 seconds. The score is recorded.  <br>
 User can re-do the quiz again or Exit the App. <br>
-Difficulty levels to be added (Easy, Medium and Hard levels)
+
+Difficulty levels to be added
 
 
 ## App Features
