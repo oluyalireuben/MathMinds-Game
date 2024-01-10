@@ -8,7 +8,7 @@ User has 30 seconds timer running, user has to solve maximum problems in
 30 seconds. The score is recorded.  <br>
 User can re-do the quiz again or Exit the App. <br>
 
-Difficulty levels to be added
+Difficulty levels to be added...
 
 
 ## App Features
