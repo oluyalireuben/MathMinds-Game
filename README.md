@@ -50,10 +50,7 @@ Setup your database
 5. **Update Authentication and Database Rules:**
    - Since the project involves authentication and uses Firebase Realtime Database, review and update the authentication and database rules in the Firebase Console.
 
-6. **Update API Keys and Credentials:**
-   - Replace any API keys or credentials from the original Firebase project with the new credentials generated for your Firebase project.
-
-7. **Test the Integration:**
+6. **Test the Integration:**
    - Build and run your project to ensure successful connection to your Firebase project.
 
 8. **Update Firebase Hosting (if applicable):**
@@ -61,11 +58,7 @@ Setup your database
 
 Review the Firebase documentation and any project-specific instructions for additional steps or considerations.
 
-
-
-
-Run the app on an emulator or physical device.
-
+9. **Finally, Run the app on an emulator or physical device.**
 
 ## Contributing
 Feel free to contribute to the development of Math Game by opening issues and pull requests.
