@@ -48,7 +48,7 @@ Setup your database
    - If using a Firebase SDK, update the dependencies in your project to match the new Firebase project.
 
 5. **Update Authentication and Database Rules:**
-   - If your project involves authentication or uses Firebase Realtime Database or Firestore, review and update the authentication and database rules in the Firebase Console.
+   - Since the project involves authentication and uses Firebase Realtime Database, review and update the authentication and database rules in the Firebase Console.
 
 6. **Update API Keys and Credentials:**
    - Replace any API keys or credentials from the original Firebase project with the new credentials generated for your Firebase project.
