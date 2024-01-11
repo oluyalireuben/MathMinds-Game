@@ -39,7 +39,7 @@ Setup your database
 
 2. **Register Your App:**
    - After creating the project, click on "Add App" to register your application.
-   - Follow the setup instructions, downloading the configuration file (`google-services.json` for Android or `GoogleService-Info.plist` for iOS).
+   - Follow the setup instructions, downloading the configuration file (`google-services.json` for Android
 
 3. **Replace Configuration Files:**
    - Replace the existing configuration files in your project with the ones downloaded from the Firebase Console.
