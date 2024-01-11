@@ -62,6 +62,11 @@ Review the Firebase documentation and any project-specific instructions for addi
 8. **Finally, Run the app on an emulator or physical device.**
 
 
+## Roadmap
+- Implement additional difficulty levels
+- Enhance UI/UX with more engaging visuals
+
+
 ## Contributing
 Feel free to contribute to the development of Math Game by opening issues and pull requests.
 
