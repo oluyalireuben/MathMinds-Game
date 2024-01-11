@@ -10,6 +10,7 @@ User can re-do the quiz again or Exit the App. <br>
 
 Difficulty levels to be added...
 
+
 ## App Features
 - Multiple choice option
 - Timer features
@@ -28,9 +29,9 @@ Difficulty levels to be added...
 Clone the repository and open it in Android Studio.  
 https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
+
 Setup your database
 ## Connecting Project to Your Own Firebase Account
-
 ### Instructions
 
 1. **Create a Firebase Project:**
@@ -53,15 +54,17 @@ Setup your database
 6. **Test the Integration:**
    - Build and run your project to ensure successful connection to your Firebase project.
 
-8. **Update Firebase Hosting (if applicable):**
+7. **Update Firebase Hosting (if applicable):**
    - If using Firebase Hosting, update the hosting configuration with your new Firebase project details.
 
 Review the Firebase documentation and any project-specific instructions for additional steps or considerations.
 
-9. **Finally, Run the app on an emulator or physical device.**
+8. **Finally, Run the app on an emulator or physical device.**
+
 
 ## Contributing
 Feel free to contribute to the development of Math Game by opening issues and pull requests.
+
 
 ## Developer
 oluyalireuben1@gmail.com
