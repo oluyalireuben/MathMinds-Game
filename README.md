@@ -10,7 +10,6 @@ User can re-do the quiz again or Exit the App. <br>
 
 Difficulty levels to be added...
 
-
 ## App Features
 - Multiple choice option
 - Timer features
@@ -29,7 +28,7 @@ Difficulty levels to be added...
 Clone the repository and open it in Android Studio.  
 https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
-Setup your database i.e Add the project to Firebase then and add your json file then build gradle
+Setup your database i.e Connect your project with Firebase then and add your json file then build gradle
 
 Run the app on an emulator or physical device.
 
