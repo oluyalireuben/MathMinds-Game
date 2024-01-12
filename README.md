@@ -23,6 +23,9 @@ User can re-do the quiz again or Exit the App. <br>
 - Kotlin
 
 
+## Dependencies
+- Firebase SDK: [version]
+
 ## Usage
 Clone the repository and open it in Android Studio.  
 https://github.com/oluyalireuben/MathMinds-Game-firebase-
