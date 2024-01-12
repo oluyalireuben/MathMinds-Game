@@ -24,7 +24,7 @@ User can re-do the quiz again or Exit the App. <br>
 
 
 ## Dependencies
-- Firebase SDK: [version]
+- Firebase SDK: 
 
 ## Usage
 Clone the repository and open it in Android Studio.  
