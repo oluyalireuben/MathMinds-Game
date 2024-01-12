@@ -72,9 +72,10 @@ Review the Firebase documentation and any project-specific instructions for addi
 Feel free to contribute to the development of Math Game by opening issues and pull requests.
 
 
-## Developer
+## Contact Developer
 oluyalireuben1@gmail.com
 
+©2024
 
 
 
