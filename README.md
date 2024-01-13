@@ -24,14 +24,14 @@ User can re-do the quiz again or Exit the App. <br>
 
 
 ## Dependencies
-- Firebase SDK: 
+- Firebase SDK
 
 ## Usage
 Clone the repository and open it in Android Studio.  
 https://github.com/oluyalireuben/MathMinds-Game-firebase-
 
 
-Setup your database
+## Setup your database
 ## Connecting Project to Your Own Firebase Account
 ### Instructions
 
