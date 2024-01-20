@@ -75,7 +75,7 @@ Feel free to contribute to the development of Math Game by opening issues and pu
 ## Contact Developer
 oluyalireuben1@gmail.com
 
- `©2024`
+ 
 
 
 
